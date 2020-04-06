@@ -28,7 +28,7 @@ We will work as "reviewers for one week". Each week, one participant pretends to
 ## Background 
 Everyone is welcome to take this class, but you will profit more if you are already familiar with the main NLP tasks and methods. Watching the online courses I mention above is also a great help. If you are in doubt, contact me :)
 
-### Grading
+## Grading
 Grading will be based on your participation on the discussions, your paper review and the final project.
 
 ## Formalities
@@ -38,7 +38,7 @@ Step by step guidelines (these are current ideas, they may be changed until the 
 
 Reviewer for a week: each participant chooses a paper from the bibliography. You pretend you are a reviewer in a big conference and evaulate the paper. Then, you write a text in the form of a blog post discussing the accomplishments and limitations of the paper, together with a short review on other approaches for solving the same task and suggestion for future work. This should be done aiming at a public that is not familiar with the field. Provide 3 topics for discussion that will be carried out by your colleagues during the week. Then we meet virtually for a 10-15 minute private talk, when you tell me about your impressions on the discussion.
 
-### Bibliography
+## Bibliography
 
 <details>
   <summary>A non-exhaustive list of RL+NLP papers </summary>
@@ -48,5 +48,5 @@ Reviewer for a week: each participant chooses a paper from the bibliography. You
   
 </details>
 
-### Contact
+## Contact
 Feel free to write me if you have any question or suggestion.
