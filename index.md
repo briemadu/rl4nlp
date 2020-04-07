@@ -68,10 +68,6 @@ A non-exhaustive list of RL+NLP papers. You can choose a paper from this list or
 **Coreference resolution**
 * CLARK, Kevin; MANNING, Christopher D. Deep Reinforcement Learning for Mention-Ranking Coreference Models. In: Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing. 2016. S. 2256-2262. [link](https://www.aclweb.org/anthology/D16-1245/)
   
-**Dependency parsing** 
-* LÊ, Minh; FOKKENS, Antske. Tackling Error Propagation through Reinforcement Learning: A Case of Greedy Dependency Parsing. In: Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers. 2017. S. 677-687. [link](https://www.aclweb.org/anthology/E17-1064/)
-* ZHANG, Lidan; CHAN, Kwok Ping. Dependency parsing with energy-based reinforcement learning. In: Proceedings of the 11th International Conference on Parsing Technologies. Association for Computational Linguistics, 2009. S. 234-237. [link](https://www.aclweb.org/anthology/W09-3838/)
-  
 **Dialog**
 * ENGLISH, Michael S.; HEEMAN, Peter A. Learning mixed initiative dialog strategies by using reinforcement learning on both conversants. In: Proceedings of the conference on Human Language Technology and Empirical Methods in Natural Language Processing. Association for Computational Linguistics, 2005. S. 1011-1018. [link](https://dl.acm.org/doi/10.3115/1220575.1220702)
 * FANG, Meng; LI, Yuan; COHN, Trevor. Learning how to Active Learn: A Deep Reinforcement Learning Approach. In: Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. 2017. S. 595-605. [link](https://www.aclweb.org/anthology/D17-1063/)
@@ -108,9 +104,20 @@ A non-exhaustive list of RL+NLP papers. You can choose a paper from this list or
 **Math word problem**
 * HUANG, Danqing, et al. Neural math word problem solver with reinforcement learning. In: Proceedings of the 27th International Conference on Computational Linguistics. 2018. S. 213-223. [link](https://www.aclweb.org/anthology/C18-1018/)
   
+**Parsing** 
+* JIANG, Jiarong, et al. Learned prioritization for trading off accuracy and speed. In: Advances in Neural Information Processing Systems. 2012. S. 1331-1339. [link](http://papers.nips.cc/paper/4556-learned-prioritization-for-trading-off-accuracy-and-speed)
+* LÊ, Minh; FOKKENS, Antske. Tackling Error Propagation through Reinforcement Learning: A Case of Greedy Dependency Parsing. In: Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers. 2017. S. 677-687. [link](https://www.aclweb.org/anthology/E17-1064/)
+* ZHANG, Lidan; CHAN, Kwok Ping. Dependency parsing with energy-based reinforcement learning. In: Proceedings of the 11th International Conference on Parsing Technologies. Association for Computational Linguistics, 2009. S. 234-237. [link](https://www.aclweb.org/anthology/W09-3838/)
+
+**Question Answering**
+* XIONG, Caiming; ZHONG, Victor; SOCHER, Richard. Dcn+: Mixed objective and deep residual coattention for question answering. arXiv preprint arXiv:1711.00106, 2017. [link](https://arxiv.org/abs/1711.00106)
+
 **Relation Extraction**
 * ZENG, Xiangrong, et al. Large scaled relation extraction with reinforcement learning. In: Thirty-Second AAAI Conference on Artificial Intelligence. 2018. [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16257)
-  
+
+**Sentence Representation**
+YOGATAMA, D., et al. Learning to compose words into sentences with reinforcement learning. In: 5th International Conference on Learning Representations (ICLR 2017). International Conference on Learning Representations, 2017. [link](https://ora.ox.ac.uk/objects/uuid:80addb02-bca0-44a3-b272-23a68417e66a)
+
 **Semantic Parsing**
 * GUU, Kelvin, et al. From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood. In: Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2017. S. 1051-1062. [link](https://www.aclweb.org/anthology/P17-1097/)
   
@@ -118,6 +125,7 @@ A non-exhaustive list of RL+NLP papers. You can choose a paper from this list or
 * MAO, Yuning, et al. End-to-End Reinforcement Learning for Automatic Taxonomy Induction. In: Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2018. S. 2462-2472. [link](https://www.aclweb.org/anthology/P18-1229/)
   
 **Text-based games**
+* HE, Ji, et al. Deep Reinforcement Learning with a Natural Language Action Space. In: Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2016. S. 1621-1630. [link](https://www.aclweb.org/anthology/P16-1153/)
   
 **Text classification**
 * ZHANG, Tianyang; HUANG, Minlie; ZHAO, Li. Learning structured representation for text classification via reinforcement learning. In: Thirty-Second AAAI Conference on Artificial Intelligence. 2018. [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16537)
@@ -125,6 +133,7 @@ A non-exhaustive list of RL+NLP papers. You can choose a paper from this list or
 **Text summarization**
 * LEE, Gyoung Ho; LEE, Kong Joo. Automatic text summarization using reinforcement learning with embedding features. In: Proceedings of the Eighth International Joint Conference on Natural Language Processing (Volume 2: Short Papers). 2017. S. 193-197. [link](https://www.aclweb.org/anthology/I17-2033/)
 * PAULUS, Romain; XIONG, Caiming; SOCHER, Richard. A deep reinforced model for abstractive summarization. arXiv preprint arXiv:1705.04304, 2017.[link](https://arxiv.org/abs/1705.04304)
+* RYANG, Seonggi; ABEKAWA, Takeshi. Framework of automatic text summarization using reinforcement learning. In: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning. Association for Computational Linguistics, 2012. S. 256-265. [link](https://dl.acm.org/doi/10.5555/2390948.2390980)
   
 **Video captioning**
 * WANG, Xin, et al. Video captioning via hierarchical reinforcement learning. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. S. 4213-4222. [link](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Video_Captioning_via_CVPR_2018_paper.html)
