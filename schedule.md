@@ -1,7 +1,7 @@
 ---
 title: Schedule
 layout: default
-nav_order: 3
+navigation_weight: 3
 ---
 
 ## Weekly Schedule
