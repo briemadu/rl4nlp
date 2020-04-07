@@ -20,9 +20,16 @@
         
         <nav class="main-nav">
           <ul>
-            <li><a href="/">https://briemadu.github.io/rl4nlp/</a></li>
-            <li><a href="https://briemadu.github.io/rl4nlp/bibliography">Bibliography</a></li>
-            <li><a href="https://briemadu.github.io/rl4nlp/schedule">Schedule</a></li>
+            {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+            {% for p in navigation_pages %}
+              {% if p.navigation_weight %}
+                <li>
+                  <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
+                    {{ p.title }}
+                  </a>
+                </li>
+              {% endif %}
+            {% endfor %}
           </ul>
         </nav>
 
