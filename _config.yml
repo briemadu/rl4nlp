@@ -2,3 +2,10 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jemoji
+  
+# Build settings
+markdown: kramdown
+
+permalink: pretty
+
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
