@@ -3,8 +3,8 @@ title: Bibliography
 layout: default
 navigation_weight: 2
 ---
-## Bibliography
-A non-exhaustive list of RL+NLP papers. You can choose a paper from this list or suggest other papers.
+## :books: Bibliography :books:
+A non-exhaustive list of RL+NLP papers. You can choose a paper from this list or suggest other papers. If you know of an important paper that is not here, let me know.
 
 **General**
 * LITTMAN, Michael L. Reinforcement learning improves behaviour from evaluative feedback. Nature, 2015, 521. Jg., Nr. 7553, S. 445-451. [link](https://www.nature.com/articles/nature14540)
