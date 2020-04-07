@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: default
-nav_order: 1
+navigation_weight: 1
 ---
 
 ### Universität Potsdam, MSc CogSys, Summer 2020
