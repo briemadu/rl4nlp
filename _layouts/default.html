@@ -18,16 +18,13 @@
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
         
-        <div>
-         {% assign navigation_pages = site.pages | sort: 'navigation_weight' %}
-            {% for p in navigation_pages %}
-              {% if p.navigation_weight %}
-                {% if p.title %}
-                <a class="page-link" href="{{ p.url | relative_url }}">{{ p.title | escape }}</a>
-                {% endif %}
-              {% endif %}
-            {% endfor %}
-          </div>
+        <nav class="main-nav">
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/bibliography.md">Bibliography</a></li>
+            <li><a href="/schedule.md">Schedule</a></li>
+          </ul>
+        </nav>
 
 
         {% if site.github.is_user_page %}
