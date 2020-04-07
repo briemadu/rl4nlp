@@ -5,7 +5,12 @@ navigation_weight: 2
 ---
 ## Bibliography
 A non-exhaustive list of RL+NLP papers. You can choose a paper from this list or suggest other papers.
-  
+
+**General**
+* LITTMAN, Michael L. Reinforcement learning improves behaviour from evaluative feedback. Nature, 2015, 521. Jg., Nr. 7553, S. 445-451. [link](https://www.nature.com/articles/nature14540)
+* LUKETINA, Jelena, et al. A survey of reinforcement learning informed by natural language. Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence Survey track. Pages 6309-6317, 2019. [link](https://www.ijcai.org/Proceedings/2019/880)
+
+
 **Coreference resolution**
 * CLARK, Kevin; MANNING, Christopher D. Deep Reinforcement Learning for Mention-Ranking Coreference Models. In: Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing. 2016. S. 2256-2262. [link](https://www.aclweb.org/anthology/D16-1245/)
   
@@ -34,12 +39,17 @@ A non-exhaustive list of RL+NLP papers. You can choose a paper from this list or
   
 **Instructions**
 * BRANAVAN, Satchuthananthavale RK, et al. Reinforcement learning for mapping instructions to actions. In: Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL and the 4th International Joint Conference on Natural Language Processing of the AFNLP: Volume 1-Volume 1. Association for Computational Linguistics, 2009. S. 82-90. [link](https://dl.acm.org/doi/10.5555/1687878.1687892)
+* GOYAL, Prasoon; NIEKUM, Scott; MOONEY, Raymond J. Using natural language for reward shaping in reinforcement learning. In: Proceedings of the 28th International Joint Conference on Artificial Intelligence. AAAI Press, 2019. S. 2385-2391. [link](https://www.ijcai.org/Proceedings/2019/331)
   
 **Knowledge graph reasoning**
 * XIONG, Wenhan; HOANG, Thien; WANG, William Yang. DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning. In: Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. 2017. S. 564-573. [link](https://www.aclweb.org/anthology/D17-1060/)
   
 **Language model**
 * RANZATO, Marc'Aurelio, et al. Sequence level training with recurrent neural networks. arXiv preprint arXiv:1511.06732, 2015. [link](https://arxiv.org/abs/1511.06732)
+
+**Language generation**
+* DETHLEFS, Nina; CUAYÁHUITL, Heriberto. Hierarchical reinforcement learning and hidden Markov models for task-oriented natural language generation. In: Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies: short papers-Volume 2. Association for Computational Linguistics, 2011. S. 654-659. [link](https://dl.acm.org/doi/10.5555/2002736.2002863)
+* YASUI, Go; TSURUOKA, Yoshimasa; NAGATA, Masaaki. Using Semantic Similarity as Reward for Reinforcement Learning in Sentence Generation. In: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop. 2019. S. 400-406. [link](https://www.aclweb.org/anthology/P19-2056/)
   
 **Machine Translation**
 * GRISSOM II, Alvin, et al. Don’t until the final verb wait: Reinforcement learning for simultaneous machine translation. In: Proceedings of the 2014 Conference on empirical methods in natural language processing (EMNLP). 2014. S. 1342-1352. [link](https://www.aclweb.org/anthology/D14-1140/)
