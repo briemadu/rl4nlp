@@ -2,5 +2,3 @@ theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
   - jemoji
-  - jekyll-paginate
-  - jekyll-sitemap
