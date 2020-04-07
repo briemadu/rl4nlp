@@ -22,9 +22,17 @@
           <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         
-        <div class="navigation main-nav js-main-nav">
-        {% include nav.html %}
-        </div>
+        <div>
+         {% assign navigation_pages = site.pages | sort: 'navigation_weight' %}
+            {% for p in navigation_pages %}
+              {% if p.navigation_weight %}
+                {% if p.title %}
+                <a class="page-link" href="{{ p.url | relative_url }}">{{ p.title | escape }}</a>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+          </div>
+
 
         {% if site.github.is_user_page %}
           <ul>
