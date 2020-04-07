@@ -1,4 +1,7 @@
 theme: jekyll-theme-dinky
+
+title: "Reinforcement Learning for Natural Language Processing"
+
 plugins:
   - jekyll-feed
   - jemoji
