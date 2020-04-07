@@ -1,3 +1,4 @@
 theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
+  - jemoji
