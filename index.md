@@ -4,7 +4,7 @@ layout: default
 navigation_weight: 1
 ---
 
-### Universität Potsdam, Summer 2020   
+### M.Sc. Cognitive Systems - Advanced Module 
 # Seminar: Reinforcement Learning for Natural Language Processing
 
 |-------------:|---------------------------|
