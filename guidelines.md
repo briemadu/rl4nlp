@@ -22,7 +22,8 @@ In the first (probably 2) weeks there will be no bloggers: I have posted the int
 * On Friday, we meet online at 3 p.m. for a 15-minute talk. I wish to hear from you what you have learned, the difficulties you have faced and you impressions on the forum debates. This is an informal talk, so don't worry about preparing any material, but be ready to spontaneously talk about the content you worked with.
  
 **Instructions**
-* Your blog post should have not less than 3,000 words. Assume your audience is familiar with NLP, but not at all with your paper and is willing to understand it with less trouble as possible. 
+* Your blog post should have not less than 3,500 words (an approximately 15-minute read in [Medium.com](https://blog.medium.com/read-time-and-you-bc2048ab620c)). 
+* Assume your audience is familiar with NLP, but not at all with the paper, and so is willing that you will spoon-feed them with what they need to understand it.
 * Be creative: the style may be more informal and pedagogical; you can use pictures, memes, examples etc.
 * The post **must** include the following:
     * title and author
