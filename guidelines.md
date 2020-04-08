@@ -17,7 +17,7 @@ In the first (probably 2) weeks there will be no bloggers: I have posted the int
 ### Blogger
 
 **Duties**
-* Carefully read the paper assigned to you. Be skeptical, judge the accuracy of choices made, the credibility of information. It is important to do parallel research and take a look at the referenced works. We normally have to read a paper several times to get a complete glimpse of the work and identify potential flaws. Allow enough time for this. If you need inspiration on how to critically read a paper, pretend you are an ACL reviewer following [their guidelines](https://acl2020.org/reviewers/). 
+* Carefully read the paper assigned to you. Be skeptical, judge the accuracy of choices made, the credibility of information. It is important to do parallel research and take a look at the referenced works. We normally have to read a paper several times to get a complete glimpse of the work and identify potential flaws. Allow enough time for this. 
 * Write a blog post about it and send it to me by email as a pdf file on **Monday before 11:59 a.m**.
 * In the body of your e-mail, write three discussion topics. I will immediately publish these and the pdf on Moodle.
 * Add three new entries to the course's communal glossary on Moodle, with words of your choice that are related to RL and were new to you.
@@ -42,6 +42,7 @@ In the first (probably 2) weeks there will be no bloggers: I have posted the int
 
 A few examples of blog posts about papers: [here](http://nlp.seas.harvard.edu/2018/04/03/attention.html), [here](https://ruder.io/learning-select-data/index.html) and [here](https://jalammar.github.io/illustrated-bert/).
 
+Getting used to reading papers after years of nice textbooks takes a while. [These slides](https://www.lib.purdue.edu/sites/default/files/libraries/engr/Tutorials/Newest%20Scientific%20Paper.pdf) may be a place to start, and you can easily find more material on the internet (search for *how to read a scientific paper*). If you need inspiration on how to critically evaluate a paper, pretend you are an ACL reviewer following [their guidelines](https://acl2020.org/reviewers/). 
 
 ### Audience
 
