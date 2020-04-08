@@ -4,7 +4,7 @@ layout: default
 navigation_weight: 1
 ---
 
-### Universität Potsdam, MSc CogSys, Summer 2020
+### Universität Potsdam, Summer 2020   
 # Seminar: Reinforcement Learning for Natural Language Processing
 
 |-------------:|---------------------------|
