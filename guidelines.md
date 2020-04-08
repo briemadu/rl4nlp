@@ -39,7 +39,7 @@ In the first (probably 2) weeks there will be no bloggers: I have posted the int
     * you don't have to dissecate the maths, but if a mathematical expression is essential, explaining it using words is useful (write me if you have trouble with this part)
     * you don't have to explain any code, but if an algorithm is important, again it is useful to describe what it does
 
-A few examples blog posts about papers: [here](http://nlp.seas.harvard.edu/2018/04/03/attention.html), [here](https://ruder.io/learning-select-data/index.html) and [here](https://jalammar.github.io/illustrated-bert/).
+A few examples of blog posts about papers: [here](http://nlp.seas.harvard.edu/2018/04/03/attention.html), [here](https://ruder.io/learning-select-data/index.html) and [here](https://jalammar.github.io/illustrated-bert/).
 
 
 ### Audience
