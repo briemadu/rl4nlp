@@ -25,17 +25,19 @@ An important skill that all NLP researchers and practitioners must have is being
 *Disclaimer*: due to the format of the course and the limited time, this course will not teach Reinforcement Learning *per se*. The main abstract concepts will come up in the discussions, but if you wish to learn its mathematical foundations or algorithms in detail, take a look, e.g. at [David Silver's video-lectures](https://www.davidsilver.uk/teaching/), [Emma Brunskill's course](https://web.stanford.edu/class/cs234/index.html) and the [reference book by Sutton & Barto](https://opac.ub.uni-potsdam.de/DB=1/SET=2/TTL=1/SHW?FRST=1). 
 
 ## Format
-This course has been adapted to happen 100% online due to the current covid-19 situation, so it will be mostly reading/writing-based. You will work on a scheme of "*reviewers for one week*". 
+This course has been adapted to happen 100% online due to the current pandemic, so it will be mostly reading/writing-based. 
 
-Each week, one participant pretends to be an NLP conference reviewer and writes a critical review in the form of a blog post about one of the papers in the bibliography to be debated with your peers. This will be posted on Moodle together with three topics you propose for group discussion in the forum. Throughout the week, everyone takes part on the debate at least once and the reviewer mediates the forum. Then you and I meet virtually for a short spontaneous talk about your impressions on the group brainstorming, so that I have the chance to see you once and give you feedback. In the end of the semester, you will work on an essay (literature review) or on a Python implementation as part of the final grade. See details on the guidelines.
+You will work on a scheme I named "*blog owners for one week*". This idea derives from the ever-increasing importance of well-written blog posts (like [this one](http://nlp.seas.harvard.edu/2018/04/03/attention.html)) that help us in our learning process by demystifying and elucidating papers that look difficult at first, especially due to the highly dense content the authors had to compress into a limited number of pages.
+
+So each week one participant pretends to be a blogger and writes a critical/explanatory review in the form of a blog post about one of the papers in the bibliography. This will be posted on Moodle together with three topics you propose for group discussion in the forum with your peers. Throughout the week, everyone takes part on the debate and you mediate the forum. Then you and I meet virtually for a short spontaneous talk about your impressions, so that I have the chance to see you once during the semester and give you feedback. In the end of the semester, you will work on an essay (literature review) or on a Python implementation as part of the final grade. See details on the [guidelines](https://briemadu.github.io/rl4nlp/guidelines).
 
 ## Background 
 Everyone is welcome to take this class, but you will profit more if you are already familiar with the main NLP tasks and methods. Watching the online courses I mention above is also a great help. If you are in doubt, contact me :)
 
 ## Requirements and grading policy
-1) one complete paper review and proposal of 3 discussion topics (40% of final grade)
-2) active participation on the discussion forums every week (20% of final grade)
-3) final project (term paper or a Python program + report) (40% of final grade)
+- one complete paper review and proposal of 3 discussion topics (40% of final grade)
+- active participation on the discussion forums every week (20% of final grade)
+- final project (term paper or a Python program + report) (40% of final grade)
  
 To pass the course, you must achieve a performance of at least 60% **on each of the items above separately**, which includes abiding by the guidelines listed [here](https://briemadu.github.io/rl4nlp/guidelines).
 
