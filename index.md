@@ -14,7 +14,7 @@ navigation_weight: 1
 | :computer:| [Moodle page, course RL4NLP id 23952](<https://moodle2.uni-potsdam.de/course/view.php?id=23952>) |
 | :e-mail:  |  madureiralasota @ uni-potsdam . de | 
 
-:warning: If you are considering taking this seminar, please write me an e-mail and register in the Moodle course, to help me plan our schedule. You can also tell me if you have any preferences regarding the papers in the bibliography, or suggest a paper that is note cited there yet. :warning: 
+:warning: If you are considering taking this seminar, please write me an e-mail and register in the Moodle course, to help me plan our schedule. You can also tell me if you have any preferences regarding the papers in the bibliography, or suggest a paper that is not cited there yet. :warning: 
 
 ## Description
 Reinforcement Learning (RL) is a machine learning paradigm that is becoming more popular for Natural Language Processing (NLP). In this seminar, we will cover recent literature that apply RL to different NLP tasks, discussing how NLP problems can be modeled with RL concepts and comparing the results to other traditional or common approaches. 
