@@ -4,7 +4,7 @@ layout: default
 navigation_weight: 1
 ---
 
-### M.Sc. Cognitive Systems - Advanced Module 
+### M.Sc. Cognitive Systems - Advanced Module - Summer 2020  
 # Seminar: Reinforcement Learning for Natural Language Processing
 
 |-------------:|---------------------------|
