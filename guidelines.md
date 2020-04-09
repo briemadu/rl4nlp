@@ -22,10 +22,10 @@ In the first (probably two) weeks there will be no bloggers: I have posted the i
 * In the body of your e-mail, write three discussion topics. I will immediately publish these and the pdf on Moodle.
 * Add three new entries to the course's cooperative glossary on Moodle, with words of your choice that are related to RL and were new to you.
 * You have to interact with your peers in the forums during the week. It does not mean you must be online 24 hours and answer straight away, but you have to be present everyday, answer questions, reply to comments etc.
-* On Friday, we meet online at 3 p.m. for a 15-minute talk. I wish to hear from you what you have learned, the difficulties you have faced and you impressions on the forum debates. This is an informal talk, so don't worry about preparing any material, but be ready to spontaneously talk about the content you worked with. I will also give you anonymous feedback provided by your colleagues.
+* On Friday, we meet online at 3 p.m. for a 15-minute talk. I wish to hear from you what you have learned, the difficulties you have faced and your impressions on the forum debates. This is an informal talk, so don't worry about preparing any material, but be ready to spontaneously talk about the content you worked with. I will also give you anonymous feedback provided by your colleagues.
  
 **Instructions**
-* Your blog post should have not less than 3,500 words (an approximately 15-minute read in [Medium.com's](https://blog.medium.com/read-time-and-you-bc2048ab620c) estimates). 
+* Your blog post should have not less than 3,500 words (an approximately 15-minute read in [Medium.com's](https://blog.medium.com/read-time-and-you-bc2048ab620c) estimates, plus the needed time for non-textual content). 
 * Assume your audience is familiar with NLP, but not at all with the paper, and so is willing that you spoon-feed them with whatever they need to understand it.
 * Be creative: the style may be more informal and pedagogical; you can use pictures, memes, emojis, examples etc.
 * The post **must** include the following:
@@ -33,25 +33,26 @@ In the first (probably two) weeks there will be no bloggers: I have posted the i
     * begin with a TL;DR (max 100 words)
     * briefly describe the NLP task that the paper is trying to solve and other methods people have been using apart from RL
     * explain what the authors of the paper have done
-    * especially explain how the ideas of RL have been used to model the task (e.g. how was was the reward translated into NLP concepts?); this should be the main focus of the post
+    * especially explain how the ideas of RL have been used to model the task (e.g. how was the reward translated into NLP concepts?); this should be the main focus of the post
     * mention good aspects and accomplishments of the paper: which ideas did you find interesting and why?
     * criticize the paper: which ideas did you disagree with? how would you change that?
     * propose some suggestions for a follow-up research
-    * you don't have to dissecate the maths, but if a mathematical expression is essential, explaining it using words is useful 
-    * you don't have to explain any code, but if an algorithm is important, again it is useful to describe what it does
     * references (not included in the word count)
-
+* You can also cover who the authors are, what is their background/workplace and how it could affect the research, external sources that were useful for you, questions left unanswered, anything you find important. 
+* You don't have to dissect the maths, but if a mathematical expression is essential, explaining it using words is useful.
+* You don't have to explain any code, but if an algorithm is important, again it is useful to describe what it does.
+    
 A few examples of blog posts about papers: [here](http://nlp.seas.harvard.edu/2018/04/03/attention.html), [here](https://ruder.io/learning-select-data/index.html) and [here](https://jalammar.github.io/illustrated-bert/).
 
 Getting used to reading papers after years of nice textbooks takes a while. [These slides](https://www.lib.purdue.edu/sites/default/files/libraries/engr/Tutorials/Newest%20Scientific%20Paper.pdf) may be a place to start, and you can easily find more material on the internet (search for *how to read a scientific paper*). If you need inspiration on how to critically evaluate a paper, pretend you are an ACL reviewer following [their guidelines](https://acl2020.org/reviewers/). 
 
-Feel free to contact me if you have any trouble.
+Feel free to contact me if you have any trouble. I do not expect you to be experts, neither on scientific literature nor on RL.
 
 ### Debaters
 
 **Duties**
 * skim through the current week's paper (read the abstract, introduction, conclusion and see the figures and tables).
-* read the blogger's post and submit a short feedback (list 2 aspects you liked and 2 aspects you disliked) through the anonymous feedback form on Moodle before **Friday at 11:59 a.m.**. I will aggregate the data and provide it to the blogger.
+* read the blogger's post and submit a short feedback (list 2 aspects you liked and 2 aspects you think coulb be improved) through the anonymous feedback form on Moodle before **Friday at 11:59 a.m.**. I will aggregate the data and provide it to the blogger.
 * anytime before **Friday at 11:59 a.m.**, post at least one contribution to the discussion on Moodle. This should be pertinent to the development of the discussion so far and consist of at least 300 words (which can be splitted among different comments). You may ask questions, politely disagree with the blogger, suggest improvements, support the author or blogger with more evidence, recommend material etc. Remember it is the participation (not the correctness) that counts on the grade, a relevant comment is fine even if it is not 100% right.
 * anytime you encounter a new concept that you consider important, add it to the cooperative glossary on Moodle.
 
