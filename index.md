@@ -29,15 +29,15 @@ This course has been adapted to happen 100% online due to the current pandemic, 
 
 You will work on a scheme I named "*bloggers for one week*". This idea derives from the ever-increasing importance of well-written blog posts and tutorials that help us in our learning process by demystifying and elucidating papers or methods that look difficult at first, especially due to the highly dense content the authors normally have to compress into a limited number of pages.
 
-So each week one participant pretends to be a blogger and writes a critical/explanatory review in the form of a blog post about one of the papers in the bibliography. This will be posted on Moodle together with three topics you propose for group discussion in the forum with your peers. Throughout the week, everyone takes part on the debate and you mediate the forum. Then you and I meet virtually for a short spontaneous talk about your impressions, so that I have the chance to see you once during the semester and give you feedback. In the end of the semester, you will work on an essay (literature review) or on a Python implementation as part of the final grade. See details on the [guidelines](https://briemadu.github.io/rl4nlp/guidelines).
+So each week one participant pretends to be a blogger and writes a critical/explanatory review in the form of a blog post about one of the papers in the bibliography. This will be posted on Moodle together with three topics you propose for group discussion in the forum with your peers. Throughout the week, everyone takes part on the debate and you mediate the forum. Then you and I meet virtually for a short spontaneous talk about your impressions, so that I have the chance to see you once during the semester and give you feedback. In the end of the semester, you will work on a review article or on a Python implementation as part of the final grade. See details on the [guidelines](https://briemadu.github.io/rl4nlp/guidelines).
 
 ## Background 
 Everyone is welcome to take this class, but you will profit more if you are already familiar with the main NLP tasks and methods. Watching the online courses I mention above is also a great help. If you are in doubt, contact me :)
 
 ## Requirements and grading policy
 - one complete paper review in form of a blog post and proposal of 3 discussion topics (40% of final grade)
-- active participation on the discussion forums every week (20% of final grade)
-- final project (term paper or a Python program + report) (40% of final grade)
+- active participation on the discussion forums every week and on the glossary (20% of final grade)
+- final project (review article or a Python program + report) (40% of final grade)
  
 To pass the course, you must achieve a performance of at least 60% **on each of the items above separately**, which includes abiding by the guidelines listed [here](https://briemadu.github.io/rl4nlp/guidelines).
 
