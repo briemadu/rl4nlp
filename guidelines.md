@@ -38,7 +38,7 @@ In the first (probably two) weeks there will be no bloggers: I have posted the i
     * criticize the paper: which ideas did you disagree with? how would you change that?
     * propose some suggestions for a follow-up research
     * references (not included in the word count)
-* You can also cover who the authors are, what is their background/workplace and how it could affect the research, external sources that were useful for you, questions left unanswered, anything you find important. 
+* You can also cover who the authors are, what is their background/workplace and how it could affect the research, external sources that were useful for you, questions left unanswered, what other researchers think about this paper, anything you find important. 
 * You don't have to dissect the maths, but if a mathematical expression is essential, explaining it using words is useful.
 * You don't have to explain any code, but if an algorithm is important, again it is useful to describe what it does.
     
