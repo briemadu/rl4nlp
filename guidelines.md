@@ -59,4 +59,4 @@ Feel free to contact me if you have any trouble. I do not expect you to be exper
 Be sincere on the feedback and provide constructive suggestions. This will be helpful for everyone. Do not write general comments that do not mean much (like 'the post was very useful'). Instead, talk about the structure of the text, how information was given, what caused you confusion etc.
 
 # Final project
-You can choose between writing a complete literature review on RL applications for NLP or implementing (Python code+report) an RL algorithm to handle an NLP task and running experiments. Detailed instructions will be posted soon.
+You can choose between writing a literature [review article](https://en.wikipedia.org/wiki/Review_article) on RL applications for NLP or implementing (Python code+report) an RL algorithm to handle an NLP task and running experiments. Detailed instructions will be posted soon.
