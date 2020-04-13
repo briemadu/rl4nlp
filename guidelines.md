@@ -42,7 +42,7 @@ In the first (probably two) weeks there will be no bloggers: I have posted the i
 * You don't have to dissect the maths, but if a mathematical expression is essential, explaining it using words is useful.
 * You don't have to explain any code, but if an algorithm is important, again it is useful to describe what it does.
     
-A few examples of blog posts about papers: [here](http://nlp.seas.harvard.edu/2018/04/03/attention.html), [here](https://ruder.io/learning-select-data/index.html) and [here](https://jalammar.github.io/illustrated-bert/).
+A few examples of blog posts about papers: [here](http://nlp.seas.harvard.edu/2018/04/03/attention.html), [here](https://ruder.io/learning-select-data/index.html) and [here](https://jalammar.github.io/illustrated-bert/). And [this one](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html) has a good overview of RL, that I recommend you to read before the course starts.
 
 Getting used to reading papers after years of nice textbooks takes a while. [These slides](https://www.lib.purdue.edu/sites/default/files/libraries/engr/Tutorials/Newest%20Scientific%20Paper.pdf) may be a place to start, and you can easily find more material on the internet (search for *how to read a scientific paper*). If you need inspiration on how to critically evaluate a paper, pretend you are an ACL reviewer following [their guidelines](https://acl2020.org/reviewers/). 
 
