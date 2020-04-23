@@ -17,6 +17,7 @@ A non-exhaustive list of RL+NLP papers. You can choose a paper from this list or
 **Dialog**
 * ENGLISH, Michael S.; HEEMAN, Peter A. Learning mixed initiative dialog strategies by using reinforcement learning on both conversants. In: Proceedings of the conference on Human Language Technology and Empirical Methods in Natural Language Processing. Association for Computational Linguistics, 2005. S. 1011-1018. [link](https://dl.acm.org/doi/10.3115/1220575.1220702)
 * FANG, Meng; LI, Yuan; COHN, Trevor. Learning how to Active Learn: A Deep Reinforcement Learning Approach. In: Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. 2017. S. 595-605. [link](https://www.aclweb.org/anthology/D17-1063/)
+* HEEMAN, Peter A. et al. Using Reinforcement Learning for Dialogue Management Policies: Towards Understanding MDP Violations and Convergence. In: Thirteenth Annual Conference of the International Speech Communication Association. 2012. [link](https://www.isca-speech.org/archive/interspeech_2012/i12_0747.html)
 * KHOUZAIMI, Hatim; LAROCHE, Romain; LEFEVRE, Fabrice. Optimising turn-taking strategies with reinforcement learning. In: Proceedings of the 16th Annual Meeting of the Special Interest Group on Discourse and Dialogue. 2015. S. 315-324. [link](https://www.aclweb.org/anthology/W15-4643.pdf)
 * LI, Jiwei, et al. Deep Reinforcement Learning for Dialogue Generation. In: Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing. 2016. S. 1192-1202. [link](https://www.aclweb.org/anthology/D16-1127/)
 * MANUVINAKURIKE, Ramesh; DEVAULT, David; GEORGILA, Kallirroi. Using reinforcement learning to model incrementality in a fast-paced dialogue game. In: Proceedings of the 18th Annual SIGdial Meeting on Discourse and Dialogue. 2017. S. 331-341. [link](https://www.aclweb.org/anthology/W17-5539/)
@@ -59,6 +60,11 @@ A non-exhaustive list of RL+NLP papers. You can choose a paper from this list or
 **Math word problem**
 * HUANG, Danqing, et al. Neural math word problem solver with reinforcement learning. In: Proceedings of the 27th International Conference on Computational Linguistics. 2018. S. 213-223. [link](https://www.aclweb.org/anthology/C18-1018/)
 
+**Mix**
+* CHANG, Kai-Wei et al. Learning to search better than your teacher. In: Proceedings of the 32nd International Conference on International Conference on Machine Learning-Volume 37. 2015. p. 2058-2066. [link](https://dl.acm.org/doi/abs/10.5555/3045118.3045337)
+* NOROUZI, Mohammad et al. Reward augmented maximum likelihood for neural structured prediction. In: Advances In Neural Information Processing Systems. 2016. p. 1723-1731. [link](http://papers.nips.cc/paper/6547-reward-augmented-maximum-likelihood-for-neural-structured-prediction)
+* SOKOLOV, Artem et al. Learning structured predictors from bandit feedback for interactive NLP. In: Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2016. p. 1610-1620. [link](https://www.aclweb.org/anthology/P16-1152/)
+
 **Narratives**
 * LING, Yuan, et al. Learning to diagnose: assimilating clinical narratives using deep reinforcement learning. In: Proceedings of the Eighth International Joint Conference on Natural Language Processing (Volume 1: Long Papers). 2017. S. 895-905. [link](https://www.aclweb.org/anthology/I17-1090/)
 
@@ -90,6 +96,7 @@ A non-exhaustive list of RL+NLP papers. You can choose a paper from this list or
 
 **Semantic Parsing**
 * GUU, Kelvin, et al. From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood. In: Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2017. S. 1051-1062. [link](https://www.aclweb.org/anthology/P17-1097/)
+* LIANG, Chen et al. Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision. In: Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2017. p. 23-33. [link](https://www.aclweb.org/anthology/P17-1003/)
   
 **Taxonomy induction**
 * MAO, Yuning, et al. End-to-End Reinforcement Learning for Automatic Taxonomy Induction. In: Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2018. S. 2462-2472. [link](https://www.aclweb.org/anthology/P18-1229/)
