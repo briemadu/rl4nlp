@@ -39,7 +39,7 @@ Everyone is welcome to take this class, but you will profit more if you are alre
 - active participation on the discussion forums every week and on the glossary (20% of final grade)
 - final project (review article or a Python program + report) (40% of final grade)
  
-To pass the course, you must achieve a performance of at least 60% **on each of the items above separately**, which includes abiding by the guidelines listed [here](https://briemadu.github.io/rl4nlp/guidelines).
+To pass the course, you must achieve a performance of at least 60% **on each of the items above separately**, which includes abiding by the guidelines listed [here](https://briemadu.github.io/rl4nlp/guidelines). If you are a student of the CS department in Uni Potsdam, the minimal performance for the CPs to be valid in your course is 70%.
 
 ## Contact
 Feel free to write me if you have any question or suggestion. I hope to hear from you soon! :wink:
