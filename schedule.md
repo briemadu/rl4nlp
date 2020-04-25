@@ -15,7 +15,7 @@ navigation_weight: 3
 |      5|18.05.2020| Question answering | [Hu et al. (2018)](https://www.aclweb.org/anthology/D18-1361/) / [Godin et al. (2019)](https://www.aclweb.org/anthology/N19-2016/) | AK / RLPA | 
 |      6|25.05.2020| Grammatical error correction / Math word problem | [Sakagushi et al. (2017)](https://www.aclweb.org/anthology/I17-2062/) / [Huang et al. (2018)](https://www.aclweb.org/anthology/C18-1018/) | WB / NM | 
 |      7|01.06.2020| Knowledge graph reasoning / Language modeling | [Xiong et al. (2017)](https://www.aclweb.org/anthology/D17-1060/) / [Ranzato et al. (2015)](https://arxiv.org/abs/1511.06732) | UB / LK | 
-|      8|08.06.2020| Dialog | [Li et al. (2016)](https://www.aclweb.org/anthology/D16-1127/) / [Manuvinakurike et al. (2017)](https://www.aclweb.org/anthology/W17-5539/) | DH / GH | 
+|      8|08.06.2020| Dialog | [Li et al. (2016)](https://www.aclweb.org/anthology/D16-1127/) | HARU | 
 |      9|15.06.2020| Machine translation | [Wu et al. (2018)](https://www.aclweb.org/anthology/D18-1397/) / [Grissom II et al. (2014)](https://www.aclweb.org/anthology/D14-1140/)| MR / LuBo | 
 |     10|22.06.2020| Text-based games / Information Extraction   | [He et al. (2016)](https://www.aclweb.org/anthology/P16-1153/) / [Narasimhan et al. (2016)](https://www.aclweb.org/anthology/D16-1261/) | IP / NCK | 
 |     11|29.06.2020| Question generation / Paraphrase generation  | [Fan et al. (2018)](https://www.aclweb.org/anthology/C18-1150/) / [Li et al. (2018)](https://www.aclweb.org/anthology/D18-1421/) | PD / KW | 
