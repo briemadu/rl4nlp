@@ -13,7 +13,7 @@ navigation_weight: 3
 |      3|04.05.2020| Language generation | [Yasui et al. (2019)](https://www.aclweb.org/anthology/P19-2056/) / [Dethlefs & Cuayahuitl (2011)](https://dl.acm.org/doi/10.5555/2002736.2002863) | JMS / LS |  
 |      4|11.05.2020| Text classification / Text anonymization | [Zhang et al. (2018)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16537) / [Mosallanezhad et al. (2019)](https://www.aclweb.org/anthology/D19-1240/)  | LiBe / KS | 
 |      5|18.05.2020| Question answering | [Hu et al. (2018)](https://www.aclweb.org/anthology/D18-1361/) / [Godin et al. (2019)](https://www.aclweb.org/anthology/N19-2016/) | AK / RLPA | 
-|      6|25.05.2020| Grammatical error correction / Math word problem | [Sakagushi et al. (2017)](https://www.aclweb.org/anthology/I17-2062/) / [Huang et al. (2018)](https://www.aclweb.org/anthology/C18-1018/) | WB / NM | 
+|      6|25.05.2020| Math word problem | [Huang et al. (2018)](https://www.aclweb.org/anthology/C18-1018/) | NM | 
 |      7|01.06.2020| Knowledge graph reasoning / Language modeling | [Xiong et al. (2017)](https://www.aclweb.org/anthology/D17-1060/) / [Ranzato et al. (2015)](https://arxiv.org/abs/1511.06732) | UB / LK | 
 |      8|08.06.2020| Dialog / Relation Extraction | [Li et al. (2016)](https://www.aclweb.org/anthology/D16-1127/) / [Zeng et al. (2018)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16257) | HARU / GH | 
 |      9|15.06.2020| Machine translation | [Wu et al. (2018)](https://www.aclweb.org/anthology/D18-1397/) / [Grissom II et al. (2014)](https://www.aclweb.org/anthology/D14-1140/)| MR / LuBo | 
