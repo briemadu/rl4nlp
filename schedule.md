@@ -21,7 +21,7 @@ navigation_weight: 3
 |     11|29.06.2020| Question generation / Paraphrase generation  | [Fan et al. (2018)](https://www.aclweb.org/anthology/C18-1150/) / [Li et al. (2018)](https://www.aclweb.org/anthology/D18-1421/) | PD / KW | 
 |     12|06.07.2020|  Instructions | [Goyal et al. (2019)](https://www.ijcai.org/Proceedings/2019/331) / [Branavan et al. (2009)](https://dl.acm.org/doi/10.5555/1687878.1687892) | PPDLH / IK | 
 |     13|13.07.2020| Sentence representation / Narratives | [Yogatama et al. (2017)](https://ora.ox.ac.uk/objects/uuid:80addb02-bca0-44a3-b272-23a68417e66a) / [Ling et al. (2017)](https://www.aclweb.org/anthology/I17-1090/) | PG / MA | 
-|     14|20.07.2020| Coreference resolution / Semantic parsing | [Clark & Manning (2016)](https://www.aclweb.org/anthology/D16-1245/) / [Guu et al. (2017)](https://www.aclweb.org/anthology/P17-1097/)  | AS / BET | 
+|     14|20.07.2020| Semantic parsing | [Guu et al. (2017)](https://www.aclweb.org/anthology/P17-1097/)  | BET | 
 
 
 
