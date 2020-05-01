@@ -67,7 +67,7 @@ Some examples of good review articles: the [second paper](https://www.ijcai.org/
 
 **Experiments**: implement a Reinforcement Learning approach applied to a Natural Language Processing task and run experiments. I do not expect originality, but it cannot be an exact copy of a work that already exists. Some idea, even if incremental, must be your own. Or your can use ideas from the papers that have not been tested yet. It is not a problem if your approach does not lead to good results, as long as you explain your motivation and describe what can be the causes for such results. Please implement it in **Pyhton**. 
 
-If your choose this option, send me a short proposal (half a page) describing what you intend to do by **July 30**. The report should follow the structure of a paper: introduction, related word, description of your model, results of your experiments and conclusion.
+The final report should follow the structure of a paper: introduction, related word, description of your model, results of your experiments and conclusion. If your choose this option, send me a short proposal (half a page) describing what you intend to do by **July 30**. 
 
 **Format**
 
