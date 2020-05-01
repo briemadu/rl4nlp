@@ -61,15 +61,16 @@ Be sincere on the feedback and provide constructive suggestions. This will be he
 # Final project
 You can choose between writing a literature [review article](https://en.wikipedia.org/wiki/Review_article) or implementing (Python code+report) a model and running experiments. 
 
-**Review article**: summarize the current state of understanding in applications of Reinforcement Learning to Natural Language Processing into an article. Follow the points in the Wikipedia's link above: mention the main people working in a field, recent major advances and discoveries, significant gaps in the research, current debates and ideas of where research might go next. Notice the idea is not describing paper by paper, by building a structured general analysis by finding patterns and similarities among all (or as many as possible) the papers listed on the bibliography (and any other you discover during the research. 
+**Review article**: summarize the current state of understanding in applications of Reinforcement Learning to Natural Language Processing into an article. Follow the points in the Wikipedia's link above: mention the main people working in a field, recent major advances and discoveries, significant gaps in the research, current debates and ideas of where research might go next. Notice the idea is not describing paper by paper, by building a structured general analysis by finding patterns and similarities among all (or as many as possible) the papers listed on the bibliography (and any other you discover during the research). 
 
 Some examples of good review articles: the [second paper](https://www.ijcai.org/Proceedings/2019/880) we covered, [this one](https://www.aclweb.org/anthology/C18-1253/) about incremental processing and [this one](https://arxiv.org/abs/1512.05742) on corpora for dialog systems (this is a long one, though).
 
 **Experiments**: implement a Reinforcement Learning approach applied to a Natural Language Processing task and run experiments. I do not expect originality, but it cannot be an exact copy of a work that already exists. Some idea, even if incremental, must be your own. Or your can use ideas from the papers that have not been tested yet. It is not a problem if your approach does not lead to good results, as long as you explain your motivation and describe what can be the causes for such results. Please implement it in **Pyhton**. 
 
-If your choose this option, send me a short proposal (half a page) describing what you intend to do by **July 30**. The report should follow the structure of a paper: introduction, literature review, description of your model, results of your experiments and conclusion.
+If your choose this option, send me a short proposal (half a page) describing what you intend to do by **July 30**. The report should follow the structure of a paper: introduction, related word, description of your model, results of your experiments and conclusion.
 
 **Format**
+
 In both cases, for you to practice how a real paper submission works, write your article following the formatting guidelines of long papers either of [COLING2020](https://coling2020.org/pages/submission) or [EMNLP2020](https://2020.emnlp.org/call-for-papers). The only difference is that your report must have **exactly 9 pages** plus blibliography.
 
 There will be a link in Moodle for you to submit a pdf. Those who opt for the experiments must also submit a compressed file with your code or point to a repository.
