@@ -11,10 +11,10 @@ navigation_weight: 3
 |      1|20.04.2020| Introduction I | [Littman (2015)](https://www.nature.com/articles/nature14540) | n/a |
 |      2|27.04.2020| Introduction II | [Luketina et al. (2019) ](https://www.ijcai.org/Proceedings/2019/880) | n/a |
 |      3|04.05.2020| Language generation | [Yasui et al. (2019)](https://www.aclweb.org/anthology/P19-2056/) / [Dethlefs & Cuayahuitl (2011)](https://dl.acm.org/doi/10.5555/2002736.2002863) | JMS / LS |  
-|      4|11.05.2020| Text classification / Text anonymization | [Zhang et al. (2018)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16537) / [Mosallanezhad et al. (2019)](https://www.aclweb.org/anthology/D19-1240/)  | LiBe / KS | 
+|      4|11.05.2020| Text classification | [Zhang et al. (2018)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16537) | LiBe | 
 |      5|18.05.2020| Question answering | [Hu et al. (2018)](https://www.aclweb.org/anthology/D18-1361/) / [Godin et al. (2019)](https://www.aclweb.org/anthology/N19-2016/) | AK / RLPA | 
 |      6|25.05.2020| Math word problem | [Huang et al. (2018)](https://www.aclweb.org/anthology/C18-1018/) | NM | 
-|      7|01.06.2020| Knowledge graph reasoning / Language modeling | [Xiong et al. (2017)](https://www.aclweb.org/anthology/D17-1060/) / [Ranzato et al. (2015)](https://arxiv.org/abs/1511.06732) | UB / LK | 
+|      7|01.06.2020| Text anonymization / Language modeling | [Mosallanezhad et al. (2019)](https://www.aclweb.org/anthology/D19-1240/)  / [Ranzato et al. (2015)](https://arxiv.org/abs/1511.06732) | UB / LK | 
 |      8|08.06.2020| Dialog / Relation Extraction | [Li et al. (2016)](https://www.aclweb.org/anthology/D16-1127/) / [Zeng et al. (2018)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16257) | HARU / GH | 
 |      9|15.06.2020| Machine translation | [Wu et al. (2018)](https://www.aclweb.org/anthology/D18-1397/) / [Grissom II et al. (2014)](https://www.aclweb.org/anthology/D14-1140/)| MR / LuBo | 
 |     10|22.06.2020| Text-based games / Information Extraction   | [He et al. (2016)](https://www.aclweb.org/anthology/P16-1153/) / [Narasimhan et al. (2016)](https://www.aclweb.org/anthology/D16-1261/) | IP / NCK | 
