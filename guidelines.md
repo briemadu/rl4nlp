@@ -6,7 +6,7 @@ navigation_weight: 4
 
 # Guidelines
 
-Detailed guidelines for this seminar (these are current ideas, they may be changed until the beginning of the course).
+Detailed guidelines for this seminar.
 
 Each one of you will be the blogger once during the semester, working on one paper of your choice. Every participant is always a debater in the audience throughout the semester, except during the week when she/he is a blogger. 
 
