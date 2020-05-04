@@ -71,7 +71,7 @@ The final report should follow the structure of a paper: introduction, related w
 
 **Format**
 
-In both cases, for you to practice how a real paper submission works, write your article following the formatting guidelines of long papers either of [COLING2020](https://coling2020.org/pages/submission) or [EMNLP2020](https://2020.emnlp.org/call-for-papers). The only difference is that your report must have **exactly 9 pages** plus blibliography.
+In both cases, for you to practice how a real paper submission works, write your article following the formatting guidelines of long papers either of [COLING2020](https://coling2020.org/pages/submission) or [EMNLP2020](https://2020.emnlp.org/call-for-papers). The only difference is that your report must have **exactly 9 pages** plus blibliography and (if you need) appendix.
 
 There will be a link in Moodle for you to submit a pdf. Those who opt for the experiments must also submit a compressed file with your code or point to a repository.
 
