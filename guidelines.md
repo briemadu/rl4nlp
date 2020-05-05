@@ -18,11 +18,11 @@ In the first (probably two) weeks there will be no bloggers: I have posted the i
 
 **Duties**
 * Carefully read the paper assigned to you. Be skeptical, judge the accuracy of choices made, the credibility of information. It is important to do parallel research and take a look at the referenced works. We normally have to read a paper several times to get a complete glimpse of the work and identify potential flaws. Allow enough time for this. 
-* Write a blog post about it and send it to me by email as a pdf file on **Monday before 11:59 a.m**.
+* Write a blog post about it and send it to me by email as a pdf file on your scheduled **Monday before 11:59 a.m**.
 * In the body of your e-mail, write three discussion topics. I will immediately publish these and the pdf on Moodle.
 * Add three new entries to the course's cooperative glossary on Moodle, with words of your choice that are related to RL and were new to you.
 * You have to interact with your peers in the forums during the week. It does not mean you must be online 24 hours and answer straight away, but you have to be present everyday, answer questions, reply to comments etc.
-* On Friday, we meet online at 3 p.m. for a 15-minute talk. I wish to hear from you what you have learned, the difficulties you have faced and your impressions on the forum debates. This is an informal talk, so don't worry about preparing any material, but be ready to spontaneously talk about the content you worked with. I will also give you anonymous feedback provided by your colleagues.
+* On the following Monday, we meet online at 3 p.m. for a 15-minute talk. I wish to hear from you what you have learned, the difficulties you have faced and your impressions on the forum debates. This is an informal talk, so don't worry about preparing any material, but be ready to spontaneously talk about the content you worked with. I will also give you anonymous feedback provided by your colleagues.
  
 **Instructions**
 * Your blog post should have not less than 3,500 words (an approximately 15-minute read in [Medium.com's](https://blog.medium.com/read-time-and-you-bc2048ab620c) estimates, plus the needed time for non-textual content). 
@@ -52,8 +52,8 @@ Feel free to contact me if you have any trouble. I do not expect you to be exper
 
 **Duties**
 * skim through the current week's paper (read the abstract, introduction, conclusion and see the figures and tables).
-* read the blogger's post and submit a short feedback (list 2 aspects you liked and 2 aspects you think could be improved) through the anonymous feedback form on Moodle before **Friday at 11:59 a.m.**. I will aggregate the data and provide it to the blogger.
-* anytime before **Friday at 11:59 a.m.**, post at least one contribution to each of the three discussions on Moodle (i.e. at least 3 comments per week). The comments should be pertinent to the development of the discussion so far. Your week contribution must consist of at least 300 words (split among all your comments). You may ask questions, politely disagree with the blogger, suggest improvements, support the author or blogger with more evidence, recommend material etc. Remember it is the participation (not the correctness) that counts on the grade, a relevant comment is fine even if it is not 100% right.
+* read the blogger's post and submit a short feedback (list 2 aspects you liked and 2 aspects you think could be improved) through the anonymous feedback form on Moodle before the following **Monday at 11:59 a.m.**. I will aggregate the data and provide it to the blogger.
+* anytime before the following **Monday at 11:59 a.m.**, post at least one contribution to three discussion topics on Moodle (i.e. at least 3 comments per week). The comments should be pertinent to the development of the discussion so far. Your week contribution must consist of at least 300 words (split among all your comments). You may ask questions, politely disagree with the blogger, suggest improvements, support the author or blogger with more evidence, recommend material etc. Remember it is the participation (not the correctness) that counts on the grade, a relevant comment is fine even if it is not 100% right.
 * anytime you encounter a new concept that you consider important, add it to the cooperative glossary on Moodle.
 
 Be sincere on the feedback and provide constructive suggestions. This will be helpful for everyone. Do not write general comments that do not mean much (like 'the post was very useful'). Instead, talk about the structure of the text, how information was given, what caused you confusion etc.
