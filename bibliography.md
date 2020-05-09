@@ -82,11 +82,11 @@ A non-exhaustive list of RL+NLP papers. You can choose a paper from this list or
 
 **Question Answering**
 * GODIN, Fréderic; KUMAR, Anjishnu; MITTAL, Arpit. Learning when not to answer: a ternary reward structure for reinforcement learning based question answering. In: Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Industry Papers). 2019. S. 122-129. [link](https://www.aclweb.org/anthology/N19-2016/)
-* HU, Huang, et al. Playing 20 Question Game with Policy-Based Reinforcement Learning. In: Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018. S. 3233-3242. [link](https://www.aclweb.org/anthology/D18-1361/)
 * XIONG, Caiming; ZHONG, Victor; SOCHER, Richard. Dcn+: Mixed objective and deep residual coattention for question answering. arXiv preprint arXiv:1711.00106, 2017. [link](https://arxiv.org/abs/1711.00106)
 
 **Question generation**
 * FAN, Zhihao, et al. A reinforcement learning framework for natural question generation using bi-discriminators. In: Proceedings of the 27th International Conference on Computational Linguistics. 2018. S. 1763-1774. [link](https://www.aclweb.org/anthology/C18-1150/)
+* HU, Huang, et al. Playing 20 Question Game with Policy-Based Reinforcement Learning. In: Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018. S. 3233-3242. [link](https://www.aclweb.org/anthology/D18-1361/)
 
 **Relation Extraction**
 * ZENG, Xiangrong, et al. Large scaled relation extraction with reinforcement learning. In: Thirty-Second AAAI Conference on Artificial Intelligence. 2018. [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16257)
