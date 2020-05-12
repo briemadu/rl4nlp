@@ -11,7 +11,7 @@ navigation_weight: 3
 |      1|20.04.2020| Introduction I | [Littman (2015)](https://www.nature.com/articles/nature14540) | n/a |
 |      2|27.04.2020| Introduction II | [Luketina et al. (2019) ](https://www.ijcai.org/Proceedings/2019/880) | n/a |
 |      3|04.05.2020| Language generation | [Yasui et al. (2019)](https://www.aclweb.org/anthology/P19-2056/) / [Dethlefs & Cuayahuitl (2011)](https://dl.acm.org/doi/10.5555/2002736.2002863) | JMS / LS |  
-|      4|11.05.2020| Text classification | [Zhang et al. (2018)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16537) | LiBe | 
+|      4|11.05.2020| Text classification / Syntactic parsing | [Zhang et al. (2018)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16537) / [Lê & Fokkens](https://www.aclweb.org/anthology/E17-1064/) | LiBe / BM | 
 |      5|18.05.2020| Question generation / Question answering | [Hu et al. (2018)](https://www.aclweb.org/anthology/D18-1361/) / [Godin et al. (2019)](https://www.aclweb.org/anthology/N19-2016/) | AK / RLPA | 
 |      6|25.05.2020| Math word problem / Information extractioon | [Huang et al. (2018)](https://www.aclweb.org/anthology/C18-1018/) / [Narasimhan et al. (2016)](https://www.aclweb.org/anthology/D16-1261/) | NM / VE | 
 |      7|01.06.2020| Text anonymization / Language modeling | [Mosallanezhad et al. (2019)](https://www.aclweb.org/anthology/D19-1240/)  / [Ranzato et al. (2015)](https://arxiv.org/abs/1511.06732) | UB / LK | 
